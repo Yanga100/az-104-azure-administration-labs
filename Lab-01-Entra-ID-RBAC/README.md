@@ -35,3 +35,20 @@ Azure Subscription
     │
     └── Azure-Users
         └── Reader
+---
+
+## Evidence
+
+Screenshots demonstrating the completed configuration:
+
+1. [Entra ID Users](./evidence/01-entra-users.png)
+2. [Entra ID Groups](./evidence/02-entra-groups.png)
+3. [Azure Resource Group](./evidence/03-resource-group.png)
+4. [Azure-Admins — Contributor Role](./evidence/04-admins-contributor.png)
+5. [Azure-Users — Reader Role](./evidence/05-users-reader.png)
+
+## Lab Status
+
+✅ **Completed**
+
+The lab demonstrates Microsoft Entra ID users and groups, Azure RBAC role assignments, resource-group scope, subscription inheritance, and basic RBAC troubleshooting.
