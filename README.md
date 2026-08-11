@@ -40,7 +40,7 @@ The objective was to understand how Azure users, groups, roles, and scopes work 
 - Microsoft Entra ID Free
 - Azure Subscription
 - Resource Group: `AZ104-Lab-RG`
-- Region: South Africa North.
+- Region: South Africa North
 
 ---
 
