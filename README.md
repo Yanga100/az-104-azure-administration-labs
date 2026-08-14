@@ -11,7 +11,7 @@ The labs focus on practical administration, troubleshooting, security, governanc
 | Lab | Topic | Status |
 |---|---|---|
 | 01 | Microsoft Entra ID & Azure RBAC | ✅ Completed |
-| 02 | Azure Governance & Policy | ⏳ Planned |
+| 02 | Azure Governance & Policy | ✅ Completed |
 | 03 | Azure Storage | ⏳ Planned |
 | 04 | Azure Virtual Machines | ⏳ Planned |
 | 05 | Azure Virtual Networking | ⏳ Planned |
