@@ -24,7 +24,7 @@ Environment = AZ104-Lab
 
 ## Lab Status
 
-🟡 In Progress
+✅ Completed
 
 ## Evidence
 
