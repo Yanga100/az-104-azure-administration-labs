@@ -28,4 +28,4 @@ Create and configure an Azure Storage Account and demonstrate basic Azure Blob S
 
 ## Lab Status
 
-🟡 In Progress
+✅ Completed
